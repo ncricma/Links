@@ -1,0 +1,52 @@
+* {
+    background-color: black;
+    
+
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    color: rgb(0, 89, 255);
+}
+
+.others a{
+    color: orangered;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.others a:hover{
+    color: green;
+}
+
+.courses a{
+    color: purple;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;    
+}
+
+.courses a:hover{
+    color: chartreuse;
+}
+
+
+
+
+.social a{
+   color: rgba(180, 42, 42, 0.932); 
+   font-weight: bold;
+   /* background-color: rgb(255, 217, 0);  */
+   text-decoration: none;
+   font-size: 20px;
+}
+
+.social a:hover{
+    color: rgb(233, 253, 52);    
+}
+
+
